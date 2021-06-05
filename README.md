@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/ID-B21_CAP0176-F44336?">
 </p>
 
+<p align="center">
+  <a href="https://github.com/GWaste/waste-classifer">
+      <img src="https://img.shields.io/badge/Tensorflow-Waste_Classifier-FF6F00?style=flat&logo=Tensorflow"></img>
+  </a>
+  <a href="https://github.com/GWaste/waste-android">
+      <img src="https://img.shields.io/badge/Kotlin-Android-0078E2?style=flat&logo=Kotlin"></img>
+  </a>
+</p>
 
 ## Team Members
 
