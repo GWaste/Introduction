@@ -35,8 +35,9 @@ Our project is similar with one of Bangkit 2020 project, which is [Garbage Image
 |  C1721808  |  Denny Rezky S           |  Cloud Computing   | DevOps Engineer                            |
 |  C1071413  |  Defi Oktri Sari         |  Cloud Computing   | DevOps Engineer                            |
 
-## Our Projects
+## Our Repositories
 
 * [Waste Classifier Notebooks and Datasets](https://github.com/GWaste/waste-classifer)
+* [Cloud Logbook](https://github.com/GWaste/cloud-logbook)
 * [GWaste Android Application](https://github.com/GWaste/waste-android)
 * [GWaste Web Application](https://github.com/GWaste/web-app)
