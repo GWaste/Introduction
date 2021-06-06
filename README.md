@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/GWaste-Full.png">
+</p>
 <h1 align="center">GWaste</h1>
 <h3 align="center">Get to know your Waste</h2>
 
