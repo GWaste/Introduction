@@ -2,7 +2,7 @@
   <img src="./assets/GWaste-Full.png">
 </p>
 <h1 align="center">GWaste</h1>
-<h3 align="center">Get to know your Waste</h2>
+<h3 align="center">Get to know your Waste</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-GWaste-F44336">
@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://github.com/GWaste/waste-classifer">
-      <img src="https://img.shields.io/badge/Tensorflow-Waste_Classifier-FF6F00?style=flat&logo=Tensorflow"></img>
+      <img src="https://img.shields.io/badge/Tensorflow-Waste_Classifier-FF6F00?style=flat&logo=Tensorflow">
   </a>
   <a href="https://github.com/GWaste/waste-android">
-      <img src="https://img.shields.io/badge/Kotlin-Android-0078E2?style=flat&logo=Kotlin"></img>
+      <img src="https://img.shields.io/badge/Kotlin-Android-0078E2?style=flat&logo=Kotlin">
   </a>
   <a href="https://github.com/GWaste/web-app">
-      <img src="https://img.shields.io/badge/Django-Web-0C4B33?style=flat&logo=Django"></img>
+      <img src="https://img.shields.io/badge/Django-Web-0C4B33?style=flat&logo=Django">
   </a>
 </p>
 
