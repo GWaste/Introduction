@@ -31,12 +31,12 @@ Our project is similar with one of Bangkit 2020 project, which is [Garbage Image
 
 ## Team Members
 
-|    ID      |        Name              |        Path        |                  Role                      |
-| :--------: | :----------------------: | :----------------: | :----------------------------------------: |
-|  M0020107  |  Ilham Syahid Syamsudin  |  Machine Learning  | Machine Learning Engineer, Mobile Engineer |
-|  M1501716  |  Antony Kurniawan S      |  Machine Learning  | Machine Learning Engineer, Web Engineer    |
-|  C1721808  |  Denny Rezky S           |  Cloud Computing   | DevOps Engineer                            |
-|  C1071413  |  Defi Oktri Sari         |  Cloud Computing   | DevOps Engineer                            |
+|    ID      |        Name              |        Path        |                  Role                      |                  Contact                      |
+| :--------: | :----------------------: | :----------------: | :----------------------------------------: | :----------------------------------------: |
+|  M0020107  |  Ilham Syahid Syamsudin    |  Machine Learning  | Machine Learning Engineer, Mobile Engineer | <a href="https://www.linkedin.com/in/ilhamsyahids/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhamsyahids" height="30" width="40" /></a> |
+|  M1501716  |  Antony Kurniawan Soemardi |  Machine Learning  | Machine Learning Engineer, Web Engineer    | <a href="https://www.linkedin.com/in/smankusors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antony Kurniawan Soemardi" height="30" width="40" /></a> |
+|  C1721808  |  Denny Rezky Sinulingga    |  Cloud Computing   | DevOps Engineer                            | <a href="https://www.linkedin.com/in/sinulingga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Denny Rezky Sinulingga" height="30" width="40" /></a> |
+|  C1071413  |  Defi Oktri Sari           |  Cloud Computing   | DevOps Engineer                            | <a href="https://www.linkedin.com/in/defi-oktri-sari-5223ba207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Defi Oktri Sari" height="30" width="40" /></a> |
 
 ## Our Repositories
 
