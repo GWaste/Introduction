@@ -1,12 +1,15 @@
+<!-- Header Logo -->
 <p align="center">
   <img src="./assets/GWaste-Full.png">
 </p>
+
+<!-- Header Brand Name -->
 <h1 align="center">GWaste</h1>
 <h3 align="center">Get to know your Waste</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-GWaste-F44336">
-  <img src="https://img.shields.io/badge/ID-B21_CAP0176-F44336?">
+  <img src="https://img.shields.io/badge/ID-B21_CAP0331-F44336?">
 </p>
 
 <p align="center">
